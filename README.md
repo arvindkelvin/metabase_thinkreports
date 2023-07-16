@@ -1,8 +1,8 @@
-# Metabase
+# Thinkreports
 
-[Metabase](https://www.metabase.com) is the easy, open-source way for everyone in your company to ask questions and learn from data.
+[Thinkreports](https://www.thinksynq.in) is the easy, open-source way for everyone in your company to ask questions and learn from data.
 
-![Metabase Product Screenshot](docs/images/metabase-product-screenshot.svg)
+![Thinkreports Product Screenshot](docs/images/metabase-product-screenshot.svg)
 
 [![Latest Release](https://img.shields.io/github/release/metabase/metabase.svg?label=latest%20release)](https://github.com/metabase/metabase/releases)
 [![codecov](https://codecov.io/gh/metabase/metabase/branch/master/graph/badge.svg)](https://codecov.io/gh/metabase/metabase)
@@ -29,7 +29,7 @@ Take a [tour of Metabase](https://www.metabase.com/learn/getting-started/tour-of
 
 ## Installation
 
-Metabase can be run just about anywhere. Check out our [Installation Guides](https://www.metabase.com/docs/latest/operations-guide/installing-metabase.html).
+Thinkreports can be run just about anywhere. Check out our [Installation Guides](https://www.metabase.com/docs/latest/operations-guide/installing-metabase.html).
 
 ## Contributing
 
@@ -37,17 +37,17 @@ To get started with a development installation of the Metabase, check out our [D
 
 ## Internationalization
 
-We want Metabase to be available in as many languages as possible. See which translations are available and help contribute to internationalization using our project over at [POEditor](https://poeditor.com/join/project/ynjQmwSsGh). You can also check out our [policies on translations](https://www.metabase.com/docs/latest/administration-guide/localization.html).
+We want Thinkreports to be available in as many languages as possible. See which translations are available and help contribute to internationalization using our project over at [POEditor](https://poeditor.com/join/project/ynjQmwSsGh). You can also check out our [policies on translations](https://www.metabase.com/docs/latest/administration-guide/localization.html).
 
-## Extending Metabase
+## Extending Thinkreports
 
-Hit our Query API from Javascript to integrate analytics. Metabase enables your application to:
+Hit our Query API from Javascript to integrate analytics. Thinkreports enables your application to:
 
 - Build moderation interfaces.
 - Export subsets of your users to third party marketing automation software.
 - Provide a custom customer lookup application for the people in your company.
 
-Check out our guide, [Working with the Metabase API](https://www.metabase.com/learn/administration/metabase-api).
+Check out our guide, [Working with the Thinkreports API](https://www.metabase.com/learn/administration/metabase-api).
 
 ## Security Disclosure
 
@@ -55,7 +55,7 @@ See [SECURITY.md](./SECURITY.md) for details.
 
 ## License
 
-This repository contains the source code for both the Open Source edition of Metabase, released under the AGPL, as well as the [commercial editions of Metabase](https://www.metabase.com/pricing), which are released under the Metabase Commercial Software License.
+This repository contains the source code for both the Open Source edition of Metabase, released under the AGPL, as well as the [commercial editions of Metabase](https://www.metabase.com/pricing), which are released under the Metabase Commercial Software License. Thinkreports works over the Opensource edition of Metabase and continues to develop over this in terms of the UI as well as some core functionalities.
 
 See [LICENSE.txt](./LICENSE.txt) for details.
 
